@@ -1,4 +1,4 @@
-This is a project worked on by Sai Santosh Kumar Ganti, Abhishek Rai Sharma, Mohit, and Vijay Karigowadara as part of BU CAS CS 542. 
+This is a project worked on by Mohit, Sai Santosh Kumar Ganti, Abhishek Rai Sharma, and Vijay Karigowadara as part of BU CAS CS 542. 
 
 Below are the instructions on how to run the code and see the results. 
 
